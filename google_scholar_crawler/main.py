@@ -4,6 +4,15 @@ import json
 from datetime import datetime
 import os
 
+from free_proxy import FreeProxy
+# 获取一个免费代理
+proxy = FreeProxy().get()
+scholarly.use_proxy(http=proxy, https=proxy)
+
+print(f"Using proxy: {proxy}")
+
+
+
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
 name = author['name']
