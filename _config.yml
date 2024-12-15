@@ -10,7 +10,8 @@ title                    : "姚洁(Jie Yao)"
 description              : "Plant cell regulations，Single-cell and spatial multi-omics"
 repository               : "YAOJ-bioin/Jie_academic_homepage.github.io"
 google_scholar_stats_use_cdn : false
-
+baseurl                  : "/Jie_academic_homepage"
+url                      : "https://yaoj-bioin.github.io"
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
