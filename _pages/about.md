@@ -37,9 +37,9 @@ My research interest includes：
 <span class='anchor' id='educations'></span>
 
 # 🎓 Educations
-- *2024 - 2025*, <a href="https://www.umich.edu/"><img class="svg" src="../images/umich_logo.svg" width="25pt"></a> University of Michigan, LSA/MCDB, Marand Lab, Research Scholar
-- *2020 - 2025*, <a href="https://www.zju.edu.cn/"><img class="svg" src="/images/ZJU_logo.svg" width="23pt"></a> Zhejiang University, Bioinformatics, Ph.D. candidate 
-- *2016 - 2020*, <a href="https://www.zju.edu.cn/"><img class="svg" src="/images/ZJU_logo.svg" width="23pt"></a> Zhejiang University, College of Agriculture and Biotechnology, Bachelor Degree （top 1%）
+- *2024 - 2025*,  University of Michigan, LSA/MCDB, Marand Lab, Research Scholar
+- *2020 - 2025*,  Zhejiang University, Bioinformatics, Ph.D. candidate 
+- *2016 - 2020*,  Zhejiang University, College of Agriculture and Biotechnology, Bachelor Degree （top 1%）
  
 
 
