@@ -7,21 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!-- 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
+ -->
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Bioinformatics at Zhejiang University.
-with 5 publications in journals, including *Developmental Cell*, *Molecular Plant*
- <a href='https://scholar.google.com/citations?user=CXUsnsAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+I am a Ph.D. candidate in Bioinformatics at Zhejiang University, 
+with 5 publications in journals, including *Developmental Cell*, *Molecular Plant*.
 
-`I am currently applying for a postdoctoral position...``
+<!--  
+ <a href='https://scholar.google.com/citations?user=CXUsnsAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+ -->
+ 
+`I am currently applying for a postdoctoral position...`
 
 My research interest includes：
 - Plant cell regulations
