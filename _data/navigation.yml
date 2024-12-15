@@ -1,19 +1,19 @@
 # main links links
 main:
   - title: "About me"
-    url: "/#about-me"
+    url: "{{ site.baseurl }}/#about-me"
 
   - title: "Educations"
-    url: "/#educations"
+    url: "{{ site.baseurl }}/#educations"
 
   - title: "Publications"
-    url: "/about/#publications"
+    url: "{{ site.baseurl }}/#publications"
 
   - title: "Honors and Awards"
-    url: "/#honors"
+    url: "{{ site.baseurl }}/#honors"
 
   - title: "Academic Reports"
-    url: "/#reports"
+    url: "{{ site.baseurl }}/#reports"
 
   - title: "Work Wxperience and Internship"
-    url: "/#working"
+    url: "{{ site.baseurl }}/#working"
