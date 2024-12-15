@@ -29,6 +29,7 @@ My research interest includes：
 - Single-cell genomics
 - Spatial transcriptomics and multi-omics
 - Machine learning applications in plant biology
+- cell-type evolution
 
 
 
@@ -59,7 +60,7 @@ My research interest includes：
 <div class='paper-box-text' markdown="1">
 
 
-[`5. Spatiotemporal transcriptomic landscape of rice embryonic cells during seed germination`](/pdf/2024_DC_JieYao_Spatiotemporal%transcriptomic%landscape%of%rice%embryonic%cells%during%seed%germination.pdf)
+`5. Spatiotemporal transcriptomic landscape of rice embryonic cells during seed germination`
 -	Jie Yao<sup>+</sup>, Qinjie Chu<sup>+</sup>, Xing Guo<sup>+</sup>, Wenwen Shao<sup>+</sup>, Nianmin Shang, Kang Luo, Xiaohan Li, Hongyu Chen, Qing Cheng, Fangyu Mo, Fan Xu, Fu Guo, Qian-Hao Zhu, Shuiguang Deng, Chengcai Chu, Xun Xu, Huan liu* and Longjiang Fan*. (2024). DOI: [10.1016/j.devcel.2024.05.016](https://doi.org/10.1016/j.devcel.2024.05.016)
 ### *Developmental Cell* (JCR=Q1, IF=11.5)
 
@@ -92,7 +93,7 @@ My research interest includes：
 <div class='paper-box-text' markdown="1">
 
 `2. Signaling pathway perturbation analysis for assessment of biological impact of cigarette smoke on lung cells.`
-- Fangjie Liu, Lu Liu, Jie Yao, Qinjie Chu, Yaqin Wang, Hongyan Qi, Michael P. Timko, Weijia Fang, Longjiang Fan*. (2021). DOI: [10.1038/s41598-021-95938-z](https://doi.org/10.1038/s41598-021-95938-z)
+- Hongyu Chen, Fangjie Liu, Lu Liu, Jie Yao, Qinjie Chu, Yaqin Wang, Hongyan Qi, Michael P. Timko, Weijia Fang, Longjiang Fan*. (2021). DOI: [10.1038/s41598-021-95938-z](https://doi.org/10.1038/s41598-021-95938-z)
 ### *Scientific Reports* (JCR=Q1, IF=5.5)
 
 </div>
@@ -100,7 +101,7 @@ My research interest includes：
 
 
 📰 `1. Isolation endophytic microorganisms from different tea cultivars`
-- ` Xin-Qiang Zheng, Jie Yao, Si-Li Huang, Kai Zhao, Zi-Yi Chen, Dong Zhao*. (2019). [ISSN 1314-8591, Volume 7, 2019](https://www.scientific-publications.net/en/article/1001823/1000034-1564596459945644.pdf)
+- Xin-Qiang Zheng, Jie Yao, Si-Li Huang, Kai Zhao, Zi-Yi Chen, Dong Zhao*. (2019). [ISSN 1314-8591, Volume 7, 2019](https://www.scientific-publications.net/en/article/1001823/1000034-1564596459945644.pdf)
 ### *Journal of International Scientific Publications*
 
 
@@ -119,8 +120,8 @@ My research interest includes：
 <span class='anchor' id='reports'></span>
 
 # 🏛️ Acedemic Reports
-- *2024.04*,– Oral Presentation, Crop Design Editorial Board Meeting
-- *2024.06*,– Poster Presentation, International Conference on Plant Spatial Omics, Shenzhen
+- *2024.06*, Poster Presentation, International Conference on Plant Spatial Omics, Shenzhen
+- *2024.04*, Oral Presentation, Crop Design Editorial Board Meeting
 - *2023.06*, Oral Presentation, 1st Yangtze River Delta Bioinformatics Conference, Zhejiang Province
 
 <span class='anchor' id='working'></span>
