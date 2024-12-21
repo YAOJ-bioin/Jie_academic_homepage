@@ -32,7 +32,7 @@ My research interest includes：
 - Single-cell genomics
 - Spatial transcriptomics and multi-omics
 - Machine learning applications in plant biology
-- cell-type evolution
+- Cell-type evolution
 
 
 
@@ -57,6 +57,22 @@ My research interest includes：
 # 📝 Publications
 
 ---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv, 2024</div><img src='images/ppEffect_bioRxiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+`6. Sub-clustering, marker identification and multi-omics integration influenced by protoplasting in plant scRNA-seq data analysis`
+-  Jie Yao, Nianmin Shang, Hongyu Chen, Yurong Hu, Qian-Hao Zhu, Longjiang Fan, Chuyu Ye, Qinjie Chu*. (2024). DOI: [10.1101/2024.12.14.628512](https://doi.org/10.1101/2024.12.14.628512)
+### *bioRxiv* 
+
+
+</div>
+</div>
+
+
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Developmental Cell, 2024</div><img src='images/cover.tif.jpg' alt="sym" width="100%"></div></div>
