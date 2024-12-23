@@ -67,6 +67,28 @@
         order: 1;
     }
     
+
+    .gray-box {
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        background-color: #f9f9f9;
+        padding: 12px 25px;  // 增加左右内边距
+        margin: 16px 0;
+        font-size: 14px;
+
+        // 添加列表样式控制
+        ul, ol {
+            margin: 0;
+            padding-left: 50px;
+        }
+
+        li {
+            margin-bottom: 4px;
+            line-height: 1.25;
+        }
+    }
+
+
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
@@ -107,3 +129,5 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+

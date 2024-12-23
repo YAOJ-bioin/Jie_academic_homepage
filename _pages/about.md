@@ -83,6 +83,12 @@ My research interest includes：
 -	Jie Yao<sup>+</sup>, Qinjie Chu<sup>+</sup>, Xing Guo<sup>+</sup>, Wenwen Shao<sup>+</sup>, Nianmin Shang, Kang Luo, Xiaohan Li, Hongyu Chen, Qing Cheng, Fangyu Mo, Fan Xu, Fu Guo, Qian-Hao Zhu, Shuiguang Deng, Chengcai Chu, Xun Xu, Huan liu* and Longjiang Fan*. (2024). DOI: [10.1016/j.devcel.2024.05.016](https://doi.org/10.1016/j.devcel.2024.05.016)
 ### *Developmental Cell* (JCR=Q1, IF=11.5)
 
+{: .gray-box}
+  - Establish a rice embryo germination spatiotemporal transcriptomic census
+  - Develop AI-based plant cell wall segmentation for precise cell-type identification  
+  - Identify scutellum cell subtypes and cell-type-specific gene expression pattern  
+  - OsMFT2 specifically expressed in SCL2, with decreasing trends during seed germination
+
 
 </div>
 </div>
