@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a Ph.D. candidate in Bioinformatics at Zhejiang University, 
-with 5 publications in journals, including *Developmental Cell*, *Molecular Plant*.
+with 6 publications in journals, including *Developmental Cell*, *Molecular Plant*.
 
 <!--  
  <a href='https://scholar.google.com/citations?user=CXUsnsAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
@@ -57,6 +57,33 @@ My research interest includes：
 # 📝 Publications
 
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefings in Bioinformatics, 2025</div><img src='images/Kmer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+`8. mKmer: An unbiased K-mer embedding of microbiomic single-microbe RNA sequencing data.`
+- Fangyu Mo, Qinghong Qian, Dihuai Zheng, Wenjie Cai, Xiaolin Lu, Jie Yao, Hongyu Chen, Yujie Huang, Xiang Zhang, Sanling Wu, Yifei Shen, Yingqi Bai, Yongcheng Wang*, Weiqin Jiang*, Longjiang Fan*. (2025).  DOI: [10.1093/bib/bbaf227](https://doi.org/10.1093/bib/bbaf227) 
+### 
+
+
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Press, 2024</div><img src='images/book.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+`7. Fundamentals of single-cell omics (1st ed.)`
+- Longjiang Fan, Yongcheng Wang, Qinjie Chu, Yinqi Bai, Tingting Lu, Xing Guo, Jie Yao, Hongyu Chen, Lu Chen, Hongshan Guo, Yifei Shen, Shiping Liu, Shenyu Ni, Binnan He, Wenwen Shao, Nianmin Shang (2024). Science Press. ISBN 978-7-03-079344-7
+
+</div>
+</div>
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv, 2024</div><img src='images/ppEffect_bioRxiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
