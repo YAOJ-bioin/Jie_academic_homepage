@@ -63,7 +63,7 @@ My research interest includes：
 
 `8. mKmer: An unbiased K-mer embedding of microbiomic single-microbe RNA sequencing data.`
 - Fangyu Mo, Qinghong Qian, Dihuai Zheng, Wenjie Cai, Xiaolin Lu, Jie Yao, Hongyu Chen, Yujie Huang, Xiang Zhang, Sanling Wu, Yifei Shen, Yingqi Bai, Yongcheng Wang*, Weiqin Jiang*, Longjiang Fan*. (2025).  DOI: [10.1093/bib/bbaf227](https://doi.org/10.1093/bib/bbaf227) 
-### 
+### *Briefings in Bioinformatics* (JCR=Q1, IF=6.8)
 
 
 
