@@ -17,32 +17,27 @@ redirect_from:
  -->
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Bioinformatics at Zhejiang University, 
-with 6 publications in journals, including *Developmental Cell*, *Molecular Plant*.
+I am a Postdoctoral Researcher in Genetics at the University of Georgia (**Schmitz Lab**).
+I received my Ph.D. in Bioinformatics from Zhejiang University and have published 8 papers in journals such as *Developmental Cell*, *Molecular Plant*, and *Trends in Plant Science*.
 
 <!--  
  <a href='https://scholar.google.com/citations?user=CXUsnsAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
  -->
- 
-`I am currently applying for a postdoctoral position...`
-
-My research interest includes：
-- Plant cell regulations
-- Bioinformatics
-- Single-cell genomics
-- Spatial transcriptomics and multi-omics
-- Machine learning applications in plant biology
-- Cell-type evolution
 
 
+🧬 **Research Interests**
+- Plant epigenetics
+- Single-cell and spatial multi-omics
+- Deep learning and epigenome-informed foundation models for plant systems biology
 
 
 
 <span class='anchor' id='educations'></span>
 
 # 🎓 Educations
+- *2025 - Present*, University of Georgia, Genetics department, Schmitz Lab, Postdoctoral Researcher
 - *2024 - 2025*,  University of Michigan, LSA/MCDB, Marand Lab, Research Scholar
-- *2020 - 2025*,  Zhejiang University, Bioinformatics, Ph.D. candidate 
+- *2020 - 2025*,  Zhejiang University, Bioinformatics, Ph.D 
 - *2016 - 2020*,  Zhejiang University, College of Agriculture and Biotechnology, Bachelor Degree （top 1%）
  
 
@@ -57,6 +52,26 @@ My research interest includes：
 # 📝 Publications
 
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trends in Plant Science, 2025</div><img src='images/spatial-review.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+`9. Advances in plant spatial multi-omics data analysis.`
+- Jie Yao, Alexandre P. Marand, Yinqi Bai, Robert J. Schmitz, Longjiang Fan*. (2025).  DOI: [10.1016/j.tplants.2025.10.005](https://doi.org/10.1016/j.tplants.2025.10.005) 
+### *Trends in Plant Science* (JCR=Q1, IF=20.8)
+
+{: .gray-box}
+- Plant spatial omics is advancing from transcriptomics to multi-omics, with subcellular resolution enabling studies in non-model species and mature tissues.
+- A step-by-step workflow is presented for spatial multi-omics data analysis in plants.
+- Key computational tools and plant-specific analytical considerations are summarized.
+- Spatial multi-omics reveals regulatory mechanisms of cell development, stress response, plant–microbe interaction, and cross-species evolution.
+
+</div>
+</div>
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefings in Bioinformatics, 2025</div><img src='images/Kmer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

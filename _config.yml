@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "姚洁(Jie Yao)"
-description              : "Plant cell regulations，Single-cell and spatial multi-omics"
+description              : "Plant epigenetics regulations, Single-cell and spatial multi-omics"
 repository               : "YAOJ-bioin/Jie_academic_homepage.github.io"
 google_scholar_stats_use_cdn : false
 baseurl                  : "/Jie_academic_homepage"
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "姚洁 (Jie Yao)"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Zhejiang University/ University of Michigan"
-  location         : "Hangzhou / Ann arbor, MI "
-  employer         : #"Hefei General Machinery Research Institute"
+  avatar           : "images/AI-self-photo.jpg"
+  bio              : "University of Georgia"
+  location         : "Athens, GA, USA"
+  employer         : #"University of Georgia" 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CXUsnsAAAAAJ&hl"
-  email            : "andy-yaoj@zju.edu.cn"
+  email            : "JieYao@uga.edu"
   researchgate     : #"https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
@@ -37,6 +37,7 @@ author:
   dribbble         :
   flickr           :
   facebook         :
+
   foursquare       :
   github           : "YAOJ-bioin"
   google_plus      :
