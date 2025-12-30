@@ -17,12 +17,14 @@ redirect_from:
  -->
 <span class='anchor' id='about-me'></span>
 
-I am a Postdoctoral Researcher in Genetics at the University of Georgia (**Schmitz Lab**).
-I received my Ph.D. in Bioinformatics from Zhejiang University and have published 8 papers in journals such as *Developmental Cell*, *Molecular Plant*, and *Trends in Plant Science*.
+I am a Postdoctoral Researcher in the Schmitz Lab at the University of Georgia, where I specialize in plant epigenetics and bioinformatics. I earned my Ph.D. in Bioinformatics from Zhejiang University.
+
+My research integrates plant epigenetics with computational biology, with a particular focus on harnessing single-cell/spatial multi-omics and deep learning to decode the complexities of plant systems. My work has been featured in leading journals, including *Developmental Cell*, *Molecular Plant*, and *Trends in Plant Science*.
 
 <!--  
  <a href='https://scholar.google.com/citations?user=CXUsnsAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
  -->
+
 
 
 🧬 **Research Interests**
@@ -52,6 +54,29 @@ I received my Ph.D. in Bioinformatics from Zhejiang University and have publishe
 # 📝 Publications
 
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Molecular Plant, 2025</div><img src='images/POCT_25_MP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+`11. The plant ontology of cell types.`
+- Hongyu Chen, Pu Liang, Xiaolin Lu, Shuai Jiang, Jingjing Jin, Jiaqi Cai, Yaqian Lu, Dihuai Zheng, Jie Yao, Qinjie Chu, Huixia Shou, Chengxin Fu, Tingting Lu, Yi Jing, Yinqi Bai, Ning Yang, Silin Zhong, Jun Xiao, Fang Yang, Xing Guo, Jixian Zhai, Alexandre P. Marand, Zhixi Tian, Fan Chen, Jian Xu, Yuling Jiao, Dijun Chen, Peijian Cao, Xiaofeng Cui, Dave Jackson, Tatsuya Nobori, Xiaofeng Gu, Jiawei Wang, James Whelan, Jianbing Yan, Robert J. Schmitz, Zhang Zhang, Longjiang Fan, POCT Consortium. (2025).  DOI: [10.1016/j.molp.2025.12.025](https://doi.org/10.1016/j.molp.2025.12.025) 
+### *Molecular Plant* (JCR=Q1, IF=24.1)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Molecular Plant, 2025</div><img src='images/plantscRNAdb_4_MP_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+`10. PlantscRNAdb 4.0: Improved marker identification and annotation under a cell type uniformity for plants.`
+- Dihuai Zheng, Xiaolin Lu, Yaqian Lu, Pu Liang, Nianmin Shang, Jiwei Xu, Jie Yao, Fangyu Mo, Qinjie Chu, Longjiang Fan, Hongyu Chen. (2025).  DOI: [10.1016/j.molp.2025.12.026](https://doi.org/10.1016/j.molp.2025.12.026) 
+### *Molecular Plant* (JCR=Q1, IF=24.1)
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trends in Plant Science, 2025</div><img src='images/spatial-review.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -187,6 +212,9 @@ I received my Ph.D. in Bioinformatics from Zhejiang University and have publishe
 <span class='anchor' id='reports'></span>
 
 # 🏛️ Acedemic Reports
+- *2025.12* Poster Presentation, Plant Center Retreat, Atlanta, USA.   
+  *PEAgent: sequence-based modeling for plant epigenomics reveals cell-type–specific regulatory grammar*  
+    
 - *2024.06*, Poster Presentation, International Conference on Plant Spatial Omics, Shenzhen
 - *2024.04*, Oral Presentation, Crop Design Editorial Board Meeting
 - *2023.06*, Oral Presentation, 1st Yangtze River Delta Bioinformatics Conference, Zhejiang Province
