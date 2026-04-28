@@ -54,12 +54,27 @@ My research integrates plant epigenetics with computational biology, with a part
 # 📝 Publications
 
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Plants, 2026</div><img src='images/scPlantReg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+`12. Single-cell chromatin accessibility and cis-regulatory element analyses in plants using the scPlantReg platform.`
+- Haidong Yan, Yarong Jin, Chengran Wang, Xinxin Zhang, Jiyuan Jia, Xiaofang Cao, Alexandre P. Marand, Mao Xia, Xuan Zhang, Yun Zhong, Xin Tang, Qiang Zhai, Tao Liu, Shilin Tian, Xiaoqin Li, Xiang Li, Jie Yao, Robert J. Schmitz, Zhaoming Wang and Linkai Huang. (2026). DOI: [10.1038/s41477-026-02289-6](https://doi.org/10.1038/s41477-026-02289-6)
+### *Nature Plants* (IF5=17.0)
+
+{: .gray-box}
+- `scPlantReg` is an end-to-end framework and database for plant scATAC-seq.
+- It supports cross-species regulatory comparison across 8 plant species. Website: [scPlantReg](http://scplantreg.com/home)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Molecular Plant, 2025</div><img src='images/POCT_25_MP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 `11. The plant ontology of cell types.`
 - Hongyu Chen, Pu Liang, Xiaolin Lu, Shuai Jiang, Jingjing Jin, Jiaqi Cai, Yaqian Lu, Dihuai Zheng, Jie Yao, Qinjie Chu, Huixia Shou, Chengxin Fu, Tingting Lu, Yi Jing, Yinqi Bai, Ning Yang, Silin Zhong, Jun Xiao, Fang Yang, Xing Guo, Jixian Zhai, Alexandre P. Marand, Zhixi Tian, Fan Chen, Jian Xu, Yuling Jiao, Dijun Chen, Peijian Cao, Xiaofeng Cui, Dave Jackson, Tatsuya Nobori, Xiaofeng Gu, Jiawei Wang, James Whelan, Jianbing Yan, Robert J. Schmitz, Zhang Zhang, Longjiang Fan, POCT Consortium. (2025).  DOI: [10.1016/j.molp.2025.12.025](https://doi.org/10.1016/j.molp.2025.12.025) 
-### *Molecular Plant* (JCR=Q1, IF=24.1)
+### *Molecular Plant* (IF=24.1)
 
 </div>
 </div>
@@ -70,7 +85,7 @@ My research integrates plant epigenetics with computational biology, with a part
 
 `10. PlantscRNAdb 4.0: Improved marker identification and annotation under a cell type uniformity for plants.`
 - Dihuai Zheng, Xiaolin Lu, Yaqian Lu, Pu Liang, Nianmin Shang, Jiwei Xu, Jie Yao, Fangyu Mo, Qinjie Chu, Longjiang Fan, Hongyu Chen. (2025).  DOI: [10.1016/j.molp.2025.12.026](https://doi.org/10.1016/j.molp.2025.12.026) 
-### *Molecular Plant* (JCR=Q1, IF=24.1)
+### *Molecular Plant* (IF=24.1)
 
 </div>
 </div>
@@ -82,7 +97,7 @@ My research integrates plant epigenetics with computational biology, with a part
 
 `9. Advances in plant spatial multi-omics data analysis.`
 - Jie Yao, Alexandre P. Marand, Yinqi Bai, Robert J. Schmitz, Longjiang Fan*. (2025).  DOI: [10.1016/j.tplants.2025.10.005](https://doi.org/10.1016/j.tplants.2025.10.005) 
-### *Trends in Plant Science* (JCR=Q1, IF=20.8)
+### *Trends in Plant Science* (IF=20.8)
 
 {: .gray-box}
 - Plant spatial omics is advancing from transcriptomics to multi-omics, with subcellular resolution enabling studies in non-model species and mature tissues.
@@ -103,7 +118,7 @@ My research integrates plant epigenetics with computational biology, with a part
 
 `8. mKmer: An unbiased K-mer embedding of microbiomic single-microbe RNA sequencing data.`
 - Fangyu Mo, Qinghong Qian, Dihuai Zheng, Wenjie Cai, Xiaolin Lu, Jie Yao, Hongyu Chen, Yujie Huang, Xiang Zhang, Sanling Wu, Yifei Shen, Yingqi Bai, Yongcheng Wang*, Weiqin Jiang*, Longjiang Fan*. (2025).  DOI: [10.1093/bib/bbaf227](https://doi.org/10.1093/bib/bbaf227) 
-### *Briefings in Bioinformatics* (JCR=Q1, IF=6.8)
+### *Briefings in Bioinformatics* (IF=6.8)
 
 
 
@@ -148,7 +163,7 @@ My research integrates plant epigenetics with computational biology, with a part
 
 `5. Spatiotemporal transcriptomic landscape of rice embryonic cells during seed germination`
 -	Jie Yao<sup>+</sup>, Qinjie Chu<sup>+</sup>, Xing Guo<sup>+</sup>, Wenwen Shao<sup>+</sup>, Nianmin Shang, Kang Luo, Xiaohan Li, Hongyu Chen, Qing Cheng, Fangyu Mo, Fan Xu, Fu Guo, Qian-Hao Zhu, Shuiguang Deng, Chengcai Chu, Xun Xu, Huan liu* and Longjiang Fan*. (2024). DOI: [10.1016/j.devcel.2024.05.016](https://doi.org/10.1016/j.devcel.2024.05.016)
-### *Developmental Cell* (JCR=Q1, IF=11.5)
+### *Developmental Cell* (IF=11.5)
 
 {: .gray-box}
   - Establish a rice embryo germination spatiotemporal transcriptomic census
@@ -165,7 +180,7 @@ My research integrates plant epigenetics with computational biology, with a part
 
 `4. A Manually curated database and analysis platform of cell markers of scars.`
 - Yan Zheng<sup>+</sup>, Jie Yao<sup>+</sup>, Xiner Shen, Haijun Cheng, Yinbo Peng, Weiqiang Tan, Michael P. Timko, Longjiang Fan*. (2022). DOI: [10.1016/j.jid.2022.10.008](https://doi.org/10.1016/j.jid.2022.10.008)
-### *Journal of Investigative Dermatology* (JCR=Q1, IF=8.3)
+### *Journal of Investigative Dermatology* (IF=8.3)
 
 </div>
 </div>
@@ -175,7 +190,7 @@ My research integrates plant epigenetics with computational biology, with a part
 
 `3. PlantscRNAdb: A Database for Plant Single-cell RNA Analysis.`
 - Hongyu Chen, Xinxin Yin, Longbiao Guo, Jie Yao, Yuwen Ding, Xiaoxu Xu, Lu Liu, Zhu Qian-Hao, Qinjie Chu*, Longjiang Fan*. (2021). DOI: [10.1016/j.molp.2021.05.002](https://doi.org/10.1016/j.molp.2021.05.002)
-### *Molecular Plant* (JCR=Q1, IF=21.4)
+### *Molecular Plant* (IF=21.4)
 
 </div>
 </div>
@@ -186,7 +201,7 @@ My research integrates plant epigenetics with computational biology, with a part
 
 `2. Signaling pathway perturbation analysis for assessment of biological impact of cigarette smoke on lung cells.`
 - Hongyu Chen, Fangjie Liu, Lu Liu, Jie Yao, Qinjie Chu, Yaqin Wang, Hongyan Qi, Michael P. Timko, Weijia Fang, Longjiang Fan*. (2021). DOI: [10.1038/s41598-021-95938-z](https://doi.org/10.1038/s41598-021-95938-z)
-### *Scientific Reports* (JCR=Q1, IF=5.5)
+### *Scientific Reports* (IF=5.5)
 
 </div>
 </div>
