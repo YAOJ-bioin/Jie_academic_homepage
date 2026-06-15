@@ -21,6 +21,8 @@ I am a Postdoctoral Researcher in the Schmitz Lab at the University of Georgia, 
 
 My research integrates plant epigenetics with computational biology, with a particular focus on harnessing single-cell/spatial multi-omics and deep learning to decode the complexities of plant systems. My work has been featured in leading journals, including *Developmental Cell*, *Molecular Plant*, and *Trends in Plant Science*.
 
+I serve as a reviewer for *Communication Biology*.
+
 <!--  
  <a href='https://scholar.google.com/citations?user=CXUsnsAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
  -->
