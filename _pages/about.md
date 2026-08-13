@@ -17,9 +17,9 @@ redirect_from:
  -->
 <span class='anchor' id='about-me'></span>
 
-I am a Postdoctoral Researcher in the Schmitz Lab at the University of Georgia, where I specialize in plant epigenetics and bioinformatics. I earned my Ph.D. in Bioinformatics from Zhejiang University.
+I am a Postdoctoral Researcher in the Schmitz Lab at the University of Georgia, working at the intersection of **AI for Science** and plant biology — building deep learning and epigenome-informed foundation models to decode the regulatory logic of plant genomes. I earned my Ph.D. in Bioinformatics from Zhejiang University.
 
-My research integrates plant epigenetics with computational biology, with a particular focus on harnessing single-cell/spatial multi-omics and deep learning to decode the complexities of plant systems. My work has been featured in leading journals, including *Developmental Cell*, *Molecular Plant*, and *Trends in Plant Science*.
+My research integrates single-cell/spatial multi-omics with sequence-based deep learning to uncover how plant genomes encode cell-type-specific regulatory programs, exemplified by **PEAgent**, a deep-learning framework I developed that predicts single-cell chromatin accessibility directly from DNA sequence across soybean, maize, and rice. My work has been featured in leading journals, including *Developmental Cell*, *Molecular Plant*, and *Trends in Plant Science*.
 
 I serve as a reviewer for *Communication Biology*.
 
@@ -30,9 +30,9 @@ I serve as a reviewer for *Communication Biology*.
 
 
 🧬 **Research Interests**
-- Plant epigenetics
+- Deep learning and epigenome-informed foundation models for plant systems biology (AI for Science)
 - Single-cell and spatial multi-omics
-- Deep learning and epigenome-informed foundation models for plant systems biology
+- Plant epigenetics
 
 
 
@@ -56,6 +56,22 @@ I serve as a reviewer for *Communication Biology*.
 # 📝 Publications
 
 ---
+<div class='paper-box'><div class='paper-box-text' style='max-width:100%; padding-left:0;' markdown="1">
+
+`13. Sequence-based modeling of plant epigenomes reveals cell-type-specific cis-regulatory grammar.`
+- Jie Yao, Jiaqi Li, Xuan Zhang, Xiang Li, Alexandre P. Marand, Ethan Pickering, Robert J. Schmitz*. (2026). DOI: [10.64898/2026.07.22.740070](https://doi.org/10.64898/2026.07.22.740070)
+### *bioRxiv*
+
+{: .gray-box}
+- Developed **PEAgent**, a deep-learning framework that predicts single-cell chromatin accessibility directly from DNA sequence across soybean, maize, and rice (355,000+ cells spanning 320 cell types).
+- Identified 243 conserved cis-regulatory patterns, with TCP and bHLH motifs showing the strongest conservation, and revealed two distinct cooperative modes acting at short- and nucleosome-scale distances.
+- Outperforms traditional sequence-conservation methods at identifying functional regulatory elements and predicting variant effects on gene regulation.
+- Explore the model and resources at [PEAgent](https://peagent.org/)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Plants, 2026</div><img src='images/scPlantReg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -229,6 +245,8 @@ I serve as a reviewer for *Communication Biology*.
 <span class='anchor' id='reports'></span>
 
 # 🏛️ Acedemic Reports
+- *2026.03.25*, Oral Talk, Plant Functional Genomics, University of Georgia (UGA), Athens, USA.
+
 - *2025.12* Poster Presentation, Plant Center Retreat, Atlanta, USA.   
   *PEAgent: sequence-based modeling for plant epigenomics reveals cell-type–specific regulatory grammar*  
     
