@@ -245,6 +245,10 @@ I serve as a reviewer for *Communication Biology*.
 <span class='anchor' id='reports'></span>
 
 # 🏛️ Acedemic Reports
+- *2026.09.21*, Oral Talk, Epigenetics, Chromatin, and Chromosomes Club (EpiCC), University of Georgia (UGA), Athens, USA.
+
+- *2026.09.11*, Poster Presentation, Genetics Retreat, University of Georgia (UGA), Athens, USA.
+
 - *2026.03.25*, Oral Talk, Plant Functional Genomics, University of Georgia (UGA), Athens, USA.
 
 - *2025.12* Poster Presentation, Plant Center Retreat, Atlanta, USA.   
