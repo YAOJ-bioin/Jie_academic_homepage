@@ -56,6 +56,21 @@ I serve as a reviewer for *Communication Biology*.
 # 📝 Publications
 
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Plant Cell, 2026</div><img src='images/ST_review_TPC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+`14. Unlocking the full potential of spatial omics in plants: Practical challenges, solutions, and a path forward.`
+- Min-Yao Jhu, Max Minne, Ziliang Luo, Hannah Dörpholz, Jie Yao, M Shahid Mukhtar, Fern Mathieu, Marta Peirats-Llobet, Travis Lee, Pau Formosa-Jordan, Siyu Song, Marc Libault, Che-Wei Hsu, Trevor M Nolan, Tatsuya Nobori, Christopher R Anderton, Robert J Schmitz, David Jackson, Miguel Moreno-Risueno, Hilde Nelissen, Rüdiger Simon, Rosangela Sozzani, Keiko Sugimoto. (2026). DOI: [10.1093/plcell/koag282](https://doi.org/10.1093/plcell/koag282)
+### *The Plant Cell* (IF=13.5)
+
+{: .gray-box}
+- A community review of spatial omics in plants, addressing plant-specific bottlenecks in sample preparation, cell segmentation, and signal detection caused by rigid cell walls and complex tissues.
+- Proposes community-driven solutions for standardizing protocols and integrating spatial multi-omics data, positioning spatial omics as a core tool for studying plant development and stress responses.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-text' style='max-width:100%; padding-left:0;' markdown="1">
 
 `13. Sequence-based modeling of plant epigenomes reveals cell-type-specific cis-regulatory grammar.`
