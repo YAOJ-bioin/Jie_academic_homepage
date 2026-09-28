@@ -63,10 +63,6 @@ I serve as a reviewer for *Communication Biology*.
 - Min-Yao Jhu, Max Minne, Ziliang Luo, Hannah Dörpholz, Jie Yao, M Shahid Mukhtar, Fern Mathieu, Marta Peirats-Llobet, Travis Lee, Pau Formosa-Jordan, Siyu Song, Marc Libault, Che-Wei Hsu, Trevor M Nolan, Tatsuya Nobori, Christopher R Anderton, Robert J Schmitz, David Jackson, Miguel Moreno-Risueno, Hilde Nelissen, Rüdiger Simon, Rosangela Sozzani, Keiko Sugimoto. (2026). DOI: [10.1093/plcell/koag282](https://doi.org/10.1093/plcell/koag282)
 ### *The Plant Cell* (IF=13.5)
 
-{: .gray-box}
-- A community review of spatial omics in plants, addressing plant-specific bottlenecks in sample preparation, cell segmentation, and signal detection caused by rigid cell walls and complex tissues.
-- Proposes community-driven solutions for standardizing protocols and integrating spatial multi-omics data, positioning spatial omics as a core tool for studying plant development and stress responses.
-
 </div>
 </div>
 
