@@ -1,14 +1,15 @@
 <!-- begin SEO -->
 {% if site.url %}
-  {% assign seo_url = site.url %}
+  {% assign seo_url = site.url | append: site.baseurl %}
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
 
 {% if site.url %}
-  {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
+  {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.baseurl | prepend: site.url %}
 {% endif %}
 
-<title>{{ site.title }}的主页</title>
+<title>{{ site.seo_title | default: site.title }}</title>
+<meta name="description" content="{{ site.seo_description | default: site.description | escape }}">
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
@@ -31,16 +32,33 @@
 
 <meta property="og:locale" content="en">
 <meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ site.title }}">
+<meta property="og:title" content="{{ site.seo_title | default: site.title }}">
+<meta property="og:description" content="{{ site.seo_description | default: site.description | escape }}">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Jie Yao",
+  "alternateName": "姚洁",
+  "jobTitle": "Postdoctoral Researcher",
+  "affiliation": { "@type": "Organization", "name": "University of Georgia" },
+  "alumniOf": { "@type": "Organization", "name": "Zhejiang University" },
+  "email": "mailto:{{ site.author.email }}",
+  "url": "{{ site.url }}{{ site.baseurl }}/",
+  "image": "{{ site.url }}{{ site.baseurl }}/{{ site.author.avatar }}",
+  "sameAs": [
+    "{{ site.author.googlescholar }}",
+    "{{ site.author.orcid }}",
+    "https://github.com/{{ site.author.github }}"
+  ]
+}
+</script>
 
 {% if seo_url %}
   <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
-{% if page.excerpt %}
-  <meta property="og:description" content="{{ seo_description }}">
-{% endif %}
 
 {% if site.twitter.username %}
   <meta name="twitter:site" content="@{{ site.twitter.username | replace: "@", "" }}">

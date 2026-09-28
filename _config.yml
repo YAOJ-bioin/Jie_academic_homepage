@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "姚洁(Jie Yao)"
 description              : "Plant epigenetics regulations, Single-cell and spatial multi-omics"
+seo_title                : "Jie Yao (姚洁) | Plant Genomics & AI | University of Georgia"
+seo_description          : "Jie Yao (姚洁) is a postdoctoral researcher in the Schmitz Lab at the University of Georgia, building deep learning models of plant single-cell epigenomics and gene regulation."
 repository               : "YAOJ-bioin/Jie_academic_homepage.github.io"
 google_scholar_stats_use_cdn : false
 baseurl                  : "/Jie_academic_homepage"
