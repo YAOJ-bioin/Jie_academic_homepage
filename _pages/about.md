@@ -247,6 +247,7 @@ I serve as a reviewer for *Communication Biology*.
 <span class='anchor' id='honors'></span>
 
 # 🏅 Honors and Awards
+- *2025* Outstanding Doctoral Graduate, Zhejiang University
 - *2024* National Scholarship (top 1%)
 - *2024* Outstanding Interdisciplinary Academic Achievement Award, Zhejiang University (Limited to 5 Recipients) 
 - *2023* Doctoral Academic Rising Star, Zhejiang University  
